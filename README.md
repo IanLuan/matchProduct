@@ -1,4 +1,5 @@
 # matchProduct
+API desenvolvida com FastAPI para detecção de similaridade entre produtos utilizando Machine Learning. O sistema integra um modelo de reconhecimento de marca, um extrator de unidades baseado em expressões regulares e um algoritmo de comparação que emprega similaridade por cosseno.
 
 ## Setup
 Versão do python utilizada: 3.6.7
